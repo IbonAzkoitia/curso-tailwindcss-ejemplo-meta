@@ -1,5 +1,3 @@
-<div class="h-[900px]"></div>
-
 <footer class="pt-12 border-t border-gray-300">
     <div class="max-w-7xl mx-auto space-y-32 mb-32">
         <div class="grid grid-cols-3 gap-12">
@@ -9,29 +7,29 @@
                 </div>
 
                 <div class="flex items-center gap-8">
-                    <a href="#"><img
-                                src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.2365-6/301846186_1133977354136753_4449523448606696437_n.svg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=vykP-GwQtKgAX8qrWJX&amp;_nc_ht=scontent-mad2-1.xx&amp;oh=00_AfCvfLKTiuu62QAtU4cZbskHuvibU9Z7h2X96ne8bdgWkQ&amp;oe=653E7A03"
-                                alt="Facebook" class="x2e0w50 hover:saturate-[1000%]"
-                                decoding="auto"
-                                loading="lazy">
+                    <a href="#">
+                        <img src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.2365-6/301846186_1133977354136753_4449523448606696437_n.svg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=vykP-GwQtKgAX8qrWJX&amp;_nc_ht=scontent-mad2-1.xx&amp;oh=00_AfCvfLKTiuu62QAtU4cZbskHuvibU9Z7h2X96ne8bdgWkQ&amp;oe=653E7A03"
+                             alt="Facebook" class="x2e0w50 hover:saturate-[1000%]"
+                             decoding="auto"
+                             loading="lazy">
                     </a>
 
-                    <a href="#"><img
-                                src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.2365-6/301766969_806458853714708_1328480861554282009_n.svg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=KaI8OxRNC8EAX_ZUbUa&amp;_nc_ht=scontent-mad2-1.xx&amp;oh=00_AfCEAwIanB6kefi_4VWgxAHkha8_-bsX8A1884TuKyxqYw&amp;oe=653DCA9A"
-                                alt="Twitter" class="x2e0w50 hover:saturate-[1000%]" decoding="auto"
-                                loading="lazy">
+                    <a href="#">
+                        <img src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.2365-6/301766969_806458853714708_1328480861554282009_n.svg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=KaI8OxRNC8EAX_ZUbUa&amp;_nc_ht=scontent-mad2-1.xx&amp;oh=00_AfCEAwIanB6kefi_4VWgxAHkha8_-bsX8A1884TuKyxqYw&amp;oe=653DCA9A"
+                             alt="Twitter" class="x2e0w50 hover:saturate-[1000%]" decoding="auto"
+                             loading="lazy">
                     </a>
 
-                    <a href="#"><img
-                                src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.2365-6/301504992_422723979706937_6454032731638328291_n.svg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=rOSBGLLOHYkAX9BlCWY&amp;_nc_ht=scontent-mad2-1.xx&amp;oh=00_AfBnOGKL-jN5qbt0-4WIsyxXuHDUeZsHy2527dlcarG54w&amp;oe=653E0B49"
-                                alt="Instagram" class="x2e0w50 hover:saturate-[1000%]"
-                                decoding="auto" loading="lazy">
+                    <a href="#">
+                        <img src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.2365-6/301504992_422723979706937_6454032731638328291_n.svg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=rOSBGLLOHYkAX9BlCWY&amp;_nc_ht=scontent-mad2-1.xx&amp;oh=00_AfBnOGKL-jN5qbt0-4WIsyxXuHDUeZsHy2527dlcarG54w&amp;oe=653E0B49"
+                             alt="Instagram" class="x2e0w50 hover:saturate-[1000%]"
+                             decoding="auto" loading="lazy">
                     </a>
 
-                    <a href="#"><img
-                                src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.2365-6/301448763_775186710293873_8271592194986836260_n.svg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=whzAjqTlXOUAX9GlBiB&amp;_nc_ht=scontent-mad2-1.xx&amp;oh=00_AfDm07it0GoCI5TMtekA7PmkHsrLArnK6MVrU7h4UyA0Sw&amp;oe=653E32A7"
-                                alt="YouTube" class="x2e0w50 hover:saturate-[1000%]" decoding="auto"
-                                loading="lazy"></a>
+                    <a href="#">
+                        <img src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.2365-6/301448763_775186710293873_8271592194986836260_n.svg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=whzAjqTlXOUAX9GlBiB&amp;_nc_ht=scontent-mad2-1.xx&amp;oh=00_AfDm07it0GoCI5TMtekA7PmkHsrLArnK6MVrU7h4UyA0Sw&amp;oe=653E32A7"
+                             alt="YouTube" class="x2e0w50 hover:saturate-[1000%]" decoding="auto"
+                             loading="lazy"></a>
                 </div>
             </div>
 
