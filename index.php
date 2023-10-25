@@ -14,6 +14,7 @@
 
 <?php require_once 'secciones/top-bar.php'; ?>
 <?php require_once 'secciones/header.php'; ?>
+<?php require_once 'secciones/footer.php'; ?>
 
 </body>
 </html>
