@@ -1,4 +1,4 @@
-<div class="py-64">
+<div class="py-32">
     <div class="max-w-5xl mx-auto text-center">
         <h2 class="mb-4 text-5xl font-medium tracking-wide">Compra los productos de Meta</h2>
         <p>El futuro de la realidad virtual y la realidad aumentada ya está aquí.</p>

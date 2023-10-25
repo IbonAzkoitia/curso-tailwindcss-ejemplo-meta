@@ -16,6 +16,7 @@
 <?php require_once 'secciones/header.php'; ?>
 <?php require_once 'secciones/featured.php'; ?>
 <?php require_once 'secciones/productos.php'; ?>
+<?php require_once 'secciones/banner.php'; ?>
 <?php require_once 'secciones/footer.php'; ?>
 
 </body>
