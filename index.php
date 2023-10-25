@@ -19,6 +19,7 @@
 <?php require_once 'secciones/banner.php'; ?>
 <?php require_once 'secciones/juegos.php'; ?>
 <?php require_once 'secciones/blog.php'; ?>
+<?php require_once 'secciones/newsletter.php'; ?>
 <?php require_once 'secciones/footer.php'; ?>
 
 </body>
