@@ -2,9 +2,7 @@
     <div class="relative max-w-7xl mx-auto z-20">
 
         <div class="max-w-[50%]">
-            <img src="https://scontent-mad2-1.xx.fbcdn.net/v/t39.8562-6/363429324_1178305643572192_2544781250291006579_n.png?stp=dst-webp&_nc_cat=111&ccb=1-7&_nc_sid=430b19&_nc_ohc=9FEeJaR_A1kAX9Lz-Cq&_nc_ht=scontent-mad2-1.xx&oh=00_AfBaVQGhuHs9vaCyaNV2675mLD4x6jZ_T_kowQ64rdRiVw&oe=653E65FD"
-                 class="mb-12 h-10"
-                 alt="">
+            <img src="/imagenes/banner-2.webp" class="mb-12 h-10" alt="">
             <h2 class="text-5xl font-medium leading-tight">La próxima generación de gafas
                 inteligentes</h2>
             <p class="my-6 max-w-[300px]">Captura, transmite en directo y conecta mediante mensajes
@@ -26,5 +24,5 @@
         </div>
     </div>
 
-    <img class="absolute top-0 z-10 h-full w-full" src="/imagenes/banner.webp" alt="">
+    <img class="absolute top-0 z-10 h-full w-full" src="/imagenes/banner-1.webp" alt="">
 </div>
